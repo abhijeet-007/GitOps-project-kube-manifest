@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: abhijeetmondal/todo-app:build-19
+        image: abhijeetmondal/todo-app:build-21
         ports:
         - containerPort: 80
